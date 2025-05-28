@@ -1,3 +1,5 @@
+library week_row;
+
 import 'package:flutter/material.dart';
 
 class WeekRow extends StatelessWidget {
